@@ -1,0 +1,15 @@
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.exe
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.deps.json
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.runtimeconfig.json
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.dll
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.pdb
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.AssemblyInfoInputs.cache
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.AssemblyInfo.cs
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.sourcelink.json
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.dll
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\refint\Laboratorio_2_CSV_JSON.dll
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.pdb
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.genruntimeconfig.cache
+C:\Users\Stephanie\Desktop\url-mia-2026\Semana2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\ref\Laboratorio_2_CSV_JSON.dll
